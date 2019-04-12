@@ -7,3 +7,11 @@ public class QuickSort{
 }
 
 lkajkdjfkajsdf
+clone2
+ecksjfkajsdf
+alkjjalksjdfas
+lkajsklfas
+alksjflksajfasd
+fjlkasjflkasjdf
+laksjfklasjfasf
+ljkasjfaks
