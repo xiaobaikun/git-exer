@@ -8,3 +8,11 @@ public class QuickSort{
 
 lkajkdjfkajsdf
 yuebuqiong
+clone2
+ecksjfkajsdf
+alkjjalksjdfas
+lkajsklfas
+alksjflksajfasd
+fjlkasjflkasjdf
+laksjfklasjfasf
+ljkasjfaks
